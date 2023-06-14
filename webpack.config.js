@@ -55,7 +55,7 @@ const webpackConfig = {
   plugins: [
     new BrowserSyncPlugin({
       proxy: {
-        target: "http://localhost/lavie-rsvp/public",
+        target: "http://localhost",
       },
       files: ["**/*.html"],
       cors: false,
