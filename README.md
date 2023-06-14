@@ -7,4 +7,4 @@ Note: insert folder "imgs" inside "src" folder
 
 • Run "npm run build" to create files to production (a folder will be created)
 
-• Define proxy based on public folder (http://localhost/work_project/public - change the "work_project")
+• Define proxy based on public folder (http://localhost/work_project/public - change the "work_project" by yours)
